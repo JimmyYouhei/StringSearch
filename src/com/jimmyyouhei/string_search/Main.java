@@ -14,6 +14,7 @@ public class Main {
 
 		*/
 
+    	/*
     	String paragram = "WE HOLD THESE TRUTHS TO BE SELF-ECIDENT";
     	String find = "TRUTH";
 
@@ -22,5 +23,7 @@ public class Main {
 
 		System.out.println("end");
 
+
+    	 */
     }
 }
